@@ -2,6 +2,8 @@
 
 This github repository contains scripts to convert the exports from [TransectMeasure](seagis.com.au) into percent cover of benthos and mean and SD of relief.
 
+![alt_text](transectmeasure-screenshots/image1.JPG "image_tooltip")
+
 ### How to annotate BRUV imagery in TransectMeasure:
 #### Load images and attribute file
 *   Open the program **TransectMeasure** and you will be welcomed with a blank screen (Figure 2).
