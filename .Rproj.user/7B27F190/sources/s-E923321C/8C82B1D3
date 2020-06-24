@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592975645506.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "466739935",
+    "id" : "8C82B1D3",
+    "lastKnownWriteTime" : 1592977221,
+    "last_content_update" : 1592977221517,
+    "path" : "C:/GitHub/forward-facing-habitat-annotation/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "cursorPosition" : "9,27",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592970905379.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D987BFF2",
+    "lastKnownWriteTime" : 1592975508,
+    "last_content_update" : 1592975508674,
+    "path" : "C:/GitHub/forward-facing-habitat-annotation/01_format-dot-point-measurements.R",
+    "project_path" : "01_format-dot-point-measurements.R",
+    "properties" : {
+        "cursorPosition" : "18,181",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
