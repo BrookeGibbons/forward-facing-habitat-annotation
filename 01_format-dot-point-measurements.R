@@ -114,11 +114,12 @@ broad<-habitat%>%
   glimpse
 
 # CREATE catami_morphology------
-morphology<-habitat%>%
-  dplyr::select(-c(fieldofview,type,relief))%>%
+detailed<-habitat%>%
+  dplyr::select(-c(fieldofview,relief))%>%
   dplyr::filter(!morphology%in%c("",NA,"Unknown"))%>%
   dplyr::filter(!broad%in%c("",NA,"Unknown","Open.Water"))%>%
-  dplyr::mutate(morphology=paste("detailed",broad,morphology,sep = ": "))%>%
+  dplyr::mutate(morphology=paste("detailed",broad,morphology,type,sep = ": "))%>%
+  dplyr::mutate(morphology=str_replace_all(.$morphology, c(": NA"="")))%>%
   dplyr::select(-c(broad))%>%
   dplyr::mutate(count=1)%>%
   dplyr::group_by(sample)%>%
@@ -132,35 +133,19 @@ morphology<-habitat%>%
   dplyr::select(-Total.Sum)%>%
   glimpse()
 
-glimpse(habitat)
-
 # Write final habitat data----
-# join starting with relief - as this is most liekly to have the most samples with habitat data
 setwd(tidy.dir)
 dir()
 
-habitat.combined<-relief%>%
+habitat.broad <- metadata%>%
   left_join(fov,by="sample")%>%
-  left_join(broad,by="sample")%>%
-  left_join(morphology,by="sample")
+  left_join(relief,by="sample")%>%
+  left_join(broad,by="sample")
 
-write.csv(habitat.combined,file=paste(study,"_habitat.csv",sep = "."), row.names=FALSE)
-
-# Habitat.plot----
-setwd(plots)
-
-habitat.plot<-habitat.combined%>%
-  gather(key=habitat, value = value, 2:ncol(.))%>%
-  filter(habitat%in%c("broad.Crinoids","mean.relief","sd.relief","broad.Consolidated","broad.Macroalgae","broad.Octocoral.Black","broad.Sponges","broad.Stony.corals","broad.Unconsolidated","broad.Reef"))
-
-head(habitat.plot)
-
-habitat.ggplot<-ggplot(habitat.plot,aes(x=value))+
-  geom_histogram()+
-  facet_grid(habitat~.,scales="free")+
-  ylab("Percent cover or Value")+
-  theme(strip.text.y = element_text(angle=0))
-
-habitat.ggplot
-
-ggsave(habitat.ggplot,file=paste(study,"R_habitat.plot.png",sep = "_"), width = 10, height = 25,units = "cm")
+habitat.detailed <- metadata%>%
+  left_join(fov,by="sample")%>%
+  left_join(relief,by="sample")%>%
+  left_join(detailed,by="sample")
+  
+write.csv(habitat.broad,file=paste(study,"_broad.habitat.csv",sep = "."), row.names=FALSE)
+write.csv(habitat.detailed,file=paste(study,"_detailed.habitat.csv",sep = "."), row.names=FALSE)
