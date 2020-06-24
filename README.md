@@ -2,12 +2,9 @@
 
 This github repository contains scripts to convert the exports from [TransectMeasure](seagis.com.au) into percent cover of benthos and mean and SD of relief.
 
-### TransectMeasure
-
-The annotation schema has been applied using the TransectMeasure software from [seagis.com.au](http://www.seagis.com.au/) and the rapid assessment attribute text file  (Supp 10) or the [det](https://github.com/TimLanglois/HabitatAnnotation/blob/master/TM%20schema_BROAD.MORPH.TYPE.with%20Invert%20Complex_170619.txt)ailed assessment attribute text file (Supp 11).
-
+### How to annotate BRUV imagery in TransectMeasure:
 #### Load images and attribute file
-*   Open the program **TransectMeasure **and you will be welcomed with a blank screen (Figure 2).
+*   Open the program **TransectMeasure** and you will be welcomed with a blank screen (Figure 2).
 
 ![alt_text](transectmeasure-screenshots/image2.jpg "image_tooltip")
  **Figure 2:**  Screen capture from TransectMeasure.
