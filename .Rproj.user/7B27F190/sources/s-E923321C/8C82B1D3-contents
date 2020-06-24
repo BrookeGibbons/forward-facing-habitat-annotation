@@ -3,8 +3,8 @@
 This github repository contains:
 *   A [TransectMeasure](seagis.com.au) SOP (below)
 *   A [script](https://github.com/BrookeGibbons/forward-facing-habitat-annotation/blob/master/01_format-dot-point-measurements.R):
-  *   to check the exports from TransectMeasure against a metadata *.csv
-  *   to convert the raw TransectMeasure annotations into percent cover, mean relief and SD of relief.
+    *   to check the exports from TransectMeasure against a metadata *.csv
+    *   to convert the raw TransectMeasure annotations into percent cover, mean relief and SD of relief.
 *   [Example annotations](https://github.com/BrookeGibbons/forward-facing-habitat-annotation/blob/master/BRUV_HabitatAnnotation_Examples.pdf) (.pdf)
 *   Example [broad schema](https://github.com/BrookeGibbons/forward-facing-habitat-annotation/blob/master/TM%20schema_BROAD%20ONLY.txt) text file
 *   Example [detailed schema](https://github.com/BrookeGibbons/forward-facing-habitat-annotation/blob/master/TM%20schema_BROAD.MORPH.TYPE.txt) text file
