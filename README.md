@@ -1,6 +1,13 @@
 # forward-facing-habitat-annotation
 
-This github repository contains scripts to convert the exports from [TransectMeasure](seagis.com.au) into percent cover of benthos and mean and SD of relief.
+This github repository contains:
+*   A TransectMeasure SOP (below)
+*   A script:
+  *   to check the exports from TransectMeasure against a metadata *.csv
+  *   to convert the raw TransectMeasure annotations into percent cover, mean relief and SD of relief.
+*   Example annotations (.pdf)
+*   Example broad schema
+*   Example detailed schema
 
 ![alt_text](transectmeasure-screenshots/image1.JPG "image_tooltip")
 
