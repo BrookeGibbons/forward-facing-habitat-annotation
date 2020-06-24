@@ -12,10 +12,10 @@ The annotation schema has been applied using the TransectMeasure software from [
 *   Open the program **TransectMeasure **and you will be welcomed with a blank screen (Supp 8 Figure 2).
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image2.jpg "image_tooltip")
  **Supp 8 Figure 2:**  Screen capture from TransectMeasure.
 
 
@@ -24,10 +24,10 @@ The annotation schema has been applied using the TransectMeasure software from [
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image3.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image3.jpg "image_tooltip")
  **Supp 8 Figure 3:**  Screen capture from TransectMeasure. 
 
 
@@ -36,10 +36,10 @@ The annotation schema has been applied using the TransectMeasure software from [
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image4.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image4.jpg "image_tooltip")
  **Supp 8 Figure 4:** Screen capture from TransectMeasure.
 
 
@@ -50,10 +50,10 @@ The annotation schema has been applied using the TransectMeasure software from [
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image5.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image5.jpg "image_tooltip")
  **Supp 8 Figure 5:** Screen capture from TransectMeasure.
 
 
@@ -65,10 +65,10 @@ The annotation schema has been applied using the TransectMeasure software from [
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image6.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image6.jpg "image_tooltip")
  **Supp 8 Figure 6:**  Screen capture from TransectMeasure.
 
 
@@ -77,18 +77,18 @@ The annotation schema has been applied using the TransectMeasure software from [
 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image7.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image7.jpg "image_tooltip")
 **Supp 8 Figure 7:**  Screen capture from TransectMeasure.
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image8.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image8.jpg "image_tooltip")
 **Supp 8 Figure 8:**  Screen capture from TransectMeasure.
 
 
@@ -100,10 +100,10 @@ The annotation schema has been applied using the TransectMeasure software from [
 
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image9.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image9.jpg "image_tooltip")
 **Supp 8 Figure 9:** Screen capture from TransectMeasure.
 
 
@@ -121,10 +121,10 @@ Note: Zoom into an image to analyse the habitat more closely by adjusting the "Z
 
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image10.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image10.jpg "image_tooltip")
 **Supp 8 Figure 10:** Screen capture from TransectMeasure.
 
 
@@ -141,10 +141,10 @@ Note: Zoom into an image to analyse the habitat more closely by adjusting the "Z
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image11.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image11.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image11.jpg "image_tooltip")
 **Supp 8 Figure 11::** Screen capture from TransectMeasure.
 
 
@@ -153,10 +153,10 @@ Note: Zoom into an image to analyse the habitat more closely by adjusting the "Z
 
 
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image12.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image12.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image12.jpg "image_tooltip")
 **Supp 8 Figure 12:** Screen capture from TransectMeasure.
 
 
@@ -165,10 +165,10 @@ Note: Zoom into an image to analyse the habitat more closely by adjusting the "Z
 
 
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to transectmeasure-screenshots/image13.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image13.jpg "image_tooltip")
+![alt_text](transectmeasure-screenshots/image13.jpg "image_tooltip")
 **Supp 8 Figure 13:** Screen capture from TransectMeasure.
 
 iii. Now you can use the R scripts provided to produce a tidy data set of percent cover and mean and standard deviation of relief for each sample.
