@@ -74,7 +74,7 @@ Note: Zoom into an image to analyse the habitat more closely by adjusting the "Z
 *   To save your work: “Measurements” > “Write to file ...” (Figure 11). This creates a *.TMObs file where your habitat classifications will be saved.
 
 ![alt_text](transectmeasure-screenshots/image11.JPG "image_tooltip")<br>
-**Figure 11::** Screen capture from TransectMeasure.
+**Figure 11:** Screen capture from TransectMeasure.
 
 *   To export TMObs file: i. “Program” > “Batch text file output ...”
 
