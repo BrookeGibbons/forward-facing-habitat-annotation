@@ -99,7 +99,7 @@ relief<-habitat%>%
 broad<-habitat%>%
   dplyr::select(-c(fieldofview,morphology,type,relief))%>%
   filter(!broad%in%c("",NA,"Unknown","Open.Water","Open Water"))%>%
-  dplyr::mutate(broad=paste("broad",broad,sep = ". "))%>%
+  dplyr::mutate(broad=paste("broad",broad,sep = "."))%>%
   dplyr::mutate(count=1)%>%
   dplyr::group_by(sample)%>%
   tidyr::spread(key=broad,value=count,fill=0)%>%
@@ -118,8 +118,8 @@ detailed<-habitat%>%
   dplyr::select(-c(fieldofview,relief))%>%
   dplyr::filter(!morphology%in%c("",NA,"Unknown"))%>%
   dplyr::filter(!broad%in%c("",NA,"Unknown","Open.Water"))%>%
-  dplyr::mutate(morphology=paste("detailed",broad,morphology,type,sep = ": "))%>%
-  dplyr::mutate(morphology=str_replace_all(.$morphology, c(": NA"="")))%>%
+  dplyr::mutate(morphology=paste("detailed",broad,morphology,type,sep = "."))%>%
+  dplyr::mutate(morphology=str_replace_all(.$morphology, c(".NA"="")))%>%
   dplyr::select(-c(broad))%>%
   dplyr::mutate(count=1)%>%
   dplyr::group_by(sample)%>%
