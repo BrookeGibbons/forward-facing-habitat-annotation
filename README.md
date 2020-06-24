@@ -9,10 +9,7 @@ The annotation schema has been applied using the TransectMeasure software from [
 
 #### Load images and attribute file
 
-
-
 *   Open the program **TransectMeasure **and you will be welcomed with a blank screen (Supp 8 Figure 2).
-
 
 
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -84,8 +81,6 @@ The annotation schema has been applied using the TransectMeasure software from [
 
 
 ![alt_text](images/image7.jpg "image_tooltip")
- 
-
 **Supp 8 Figure 7:**  Screen capture from TransectMeasure.
 
 
@@ -94,7 +89,7 @@ The annotation schema has been applied using the TransectMeasure software from [
 
 
 ![alt_text](images/image8.jpg "image_tooltip")
- **Supp 8 Figure 8:**  Screen capture from TransectMeasure.
+**Supp 8 Figure 8:**  Screen capture from TransectMeasure.
 
 
 #### Classifying the habitat in an image
@@ -109,7 +104,7 @@ The annotation schema has been applied using the TransectMeasure software from [
 
 
 ![alt_text](images/image9.jpg "image_tooltip")
- **Supp 8 Figure 9:** Screen capture from TransectMeasure.
+**Supp 8 Figure 9:** Screen capture from TransectMeasure.
 
 
 
@@ -130,7 +125,7 @@ Note: Zoom into an image to analyse the habitat more closely by adjusting the "Z
 
 
 ![alt_text](images/image10.jpg "image_tooltip")
-_ **Supp 8 Figure 10: **Screen capture from TransectMeasure._
+**Supp 8 Figure 10:** Screen capture from TransectMeasure.
 
 
 
@@ -150,7 +145,7 @@ _ **Supp 8 Figure 10: **Screen capture from TransectMeasure._
 
 
 ![alt_text](images/image11.jpg "image_tooltip")
-_ **Supp 8 Figure 11: **Screen capture from TransectMeasure._
+**Supp 8 Figure 11::** Screen capture from TransectMeasure.
 
 
 
@@ -162,7 +157,7 @@ _ **Supp 8 Figure 11: **Screen capture from TransectMeasure._
 
 
 ![alt_text](images/image12.jpg "image_tooltip")
-_ **Supp 8 Figure 12: **Screen capture from TransectMeasure._
+**Supp 8 Figure 12:** Screen capture from TransectMeasure.
 
 
 
@@ -174,6 +169,6 @@ _ **Supp 8 Figure 12: **Screen capture from TransectMeasure._
 
 
 ![alt_text](images/image13.jpg "image_tooltip")
-_ **Supp 8 Figure 13: **Screen capture from TransectMeasure (seagis.com.au)_
+**Supp 8 Figure 13:** Screen capture from TransectMeasure.
 
 iii. Now you can use the R scripts provided to produce a tidy data set of percent cover and mean and standard deviation of relief for each sample.
